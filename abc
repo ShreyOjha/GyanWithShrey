@@ -1,0 +1,8 @@
+<label for="exampleInputEmail1" class="form-label text-primary">Login By Using</label><br>
+         <a  href="https://www.instagram.com/accounts/login/" target="_blank"><img src="insta.png" width="45px" height="45px"></a>
+         <a  href="https://twitter.com/?logout=1626075130096" target="_blank"><img src="twit.gif" width="45px" height="45px"></a>
+         <a  href="https://core.telegram.org/blackberry/login" target="_blank"><img src="fac.png" width="45px" height="45px"></a>
+         <a  href="https://www.linkedin.com/home" target="_blank"><img src="lin.png" width="45px" height="45px"></a>
+         <a  href="https://accounts.google.com" target="_blank"><img src="pin.png" width="45px" height="45px"></a>
+         <a  href="https://www.facebook.com/" target="_blank"><img src="face.png" width="45px" height="45px"></a>
+        </form>
